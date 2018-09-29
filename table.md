@@ -1,0 +1,34 @@
+| Text             |   File Size  | Number of Suggestions | Time to Learn | Memory to Learn | Time to Type    | Memory to Type |
+|------------------|--------------|-----------------------|---------------|-----------------|-----------------|----------------|
+|lyrics.txt        |      0.537 Kb|                      1|      0.23596 s|       15.4218 Mb|        1.62975 s|      15.4257 Mb|
+|lyrics.txt        |      0.537 Kb|                      2|      0.23196 s|       15.4179 Mb|        1.86471 s|      15.4296 Mb|
+|lyrics.txt        |      0.537 Kb|                      3|      0.23296 s|       15.4140 Mb|        1.99669 s|      15.4257 Mb|
+|lyrics.txt        |      0.537 Kb|                      4|      0.23396 s|       15.4179 Mb|        2.10267 s|      15.4257 Mb|
+|lyrics.txt        |      0.537 Kb|                      5|      0.23396 s|       15.4179 Mb|        2.28565 s|      15.4257 Mb|
+|lyrics.txt        |      0.537 Kb|                      6|      0.23396 s|       15.4179 Mb|        2.29565 s|      15.4257 Mb|
+|lyrics.txt        |      0.537 Kb|                      7|      0.23296 s|       15.4218 Mb|        2.30264 s|      15.4218 Mb|
+|lyrics.txt        |      0.537 Kb|                      8|      0.23296 s|       15.4179 Mb|        2.49961 s|      15.4218 Mb|
+|7oldsamr.txt      |      2.686 Kb|                      1|      0.25896 s|       15.5156 Mb|        5.24720 s|      15.5156 Mb|
+|7oldsamr.txt      |      2.686 Kb|                      2|      0.25995 s|       15.5156 Mb|        7.42487 s|      15.5156 Mb|
+|7oldsamr.txt      |      2.686 Kb|                      3|      0.25796 s|       15.5156 Mb|        8.58469 s|      15.5156 Mb|
+|7oldsamr.txt      |      2.686 Kb|                      4|      0.26295 s|       15.5117 Mb|        9.37657 s|      15.5156 Mb|
+|7oldsamr.txt      |      2.686 Kb|                      5|      0.25995 s|       15.5117 Mb|        9.86449 s|      15.5117 Mb|
+|7oldsamr.txt      |      2.686 Kb|                      6|      0.25995 s|       15.5117 Mb|        9.65353 s|      15.5078 Mb|
+|7oldsamr.txt      |      2.686 Kb|                      7|      0.26095 s|       15.5078 Mb|        10.6013 s|      15.5156 Mb|
+|7oldsamr.txt      |      2.686 Kb|                      8|      0.26295 s|       15.5117 Mb|        10.2724 s|      15.5117 Mb|
+|advtthum.txt      |      4.315 Kb|                      1|      0.29995 s|       15.5703 Mb|        9.01362 s|      15.5703 Mb|
+|advtthum.txt      |      4.315 Kb|                      2|      0.30095 s|       15.5703 Mb|        12.1071 s|      15.5703 Mb|
+|advtthum.txt      |      4.315 Kb|                      3|      0.29595 s|       15.5703 Mb|        14.2278 s|      15.5742 Mb|
+|advtthum.txt      |      4.315 Kb|                      4|      0.31095 s|       15.5742 Mb|        15.0687 s|      15.5781 Mb|
+|advtthum.txt      |      4.315 Kb|                      5|      0.30095 s|       15.5742 Mb|        15.8375 s|      15.5781 Mb|
+|advtthum.txt      |      4.315 Kb|                      6|      0.29895 s|       15.5703 Mb|        16.0905 s|      15.5703 Mb|
+|advtthum.txt      |      4.315 Kb|                      7|      0.29695 s|       15.5703 Mb|        16.3125 s|      15.5742 Mb|
+|advtthum.txt      |      4.315 Kb|                      8|      0.29995 s|       15.5664 Mb|        16.8864 s|      15.5820 Mb|
+|BillOfRights.txt  |     11.101 Kb|                      1|      0.47792 s|       15.7773 Mb|        32.2620 s|      18.1914 Mb|
+|BillOfRights.txt  |     11.101 Kb|                      2|      0.47692 s|       15.7812 Mb|        38.6531 s|      18.1875 Mb|
+|BillOfRights.txt  |     11.101 Kb|                      3|      0.49192 s|       15.7773 Mb|        42.7265 s|      18.1875 Mb|
+|BillOfRights.txt  |     11.101 Kb|                      4|      0.50492 s|       15.7812 Mb|        46.0560 s|      18.1875 Mb|
+|BillOfRights.txt  |     11.101 Kb|                      5|      0.48392 s|       15.7773 Mb|        47.3697 s|      18.1914 Mb|
+|BillOfRights.txt  |     11.101 Kb|                      6|      0.49092 s|       15.7773 Mb|        49.1685 s|      18.1914 Mb|
+|BillOfRights.txt  |     11.101 Kb|                      7|      0.47692 s|       15.7773 Mb|        50.9802 s|      18.1835 Mb|
+|BillOfRights.txt  |     11.101 Kb|                      8|      0.48792 s|       15.7734 Mb|        50.4723 s|      18.1835 Mb|
